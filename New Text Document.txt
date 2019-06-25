@@ -1,0 +1,51 @@
+problem statement of fabrikam comany 
+
+fabrikam information management soluction 
+
+
+fabrikam provides an easy way to sell products. However, there is a lot of competition among multiple e-commerce sites. When users land on an e-commerce site, they expect to find what they are looking for quickly and easily.
+
+
+
+The purpose fabrikam website is to help customers enable them to finalize the products they want to purchase. For example, suppose a customer is interested in purchasing a mobile.  a mobile should list mobile brands, operating systems on mobiles, screen size of mobiles. As the customer selects more and more features or options from the facets provided, the search narrows down to a small list of mobiles that suit his or her choice. If the list is small enough and the customer likes one of the mobiles listed, he or she will make the purchase.
+
+
+The challenge is also that each category will have a different set of samples to be displayed. For example, searching for books should display their format, as  hardcover, author name, book series, language, and other facets related to books.
+
+each category will have different options and it needs to be designed properly so that customers choose preferred products, irrespective of the category they are looking for.
+
+The main purpose this is that categorization and feature listing of products should be taken care of. Misrepresentation of features can lead to incorrect search results.
+
+Another problem is that we need to  provide multiple options in the search results. For example, while displaying the list of all mobiles, we need to provide options for a brand. Once a brand is selected, another set of options for operating  systems, network, and mobile phone features has to be provided. As more and more options are selected, we still need to show options within the remaining products.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
