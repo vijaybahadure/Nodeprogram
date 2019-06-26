@@ -9,6 +9,7 @@ function process_request(req,resp){
 			   case '/':
 			   resp.writeHead(200,{'Content-Type':'text/html'});
 		       resp.write("<h1>hello world!</h1>");
+			   resp.write("<h1> welcome to pune city</h1>");
 		       resp.write("<h2>Welcome to nodejs</h2>");
 		       resp.end("done");
 			   break;
@@ -22,6 +23,7 @@ function process_request(req,resp){
 				resp.writeHead(200,{'Content-Type':'text/html'});
 		        resp.write("<h1>In about us</h1>");
 		        resp.write("<h2>Welcome to about us</h2>");
+				resp.write("<h2> welcome to about page</h2>");
 				resp.write(p.query);
 				var q=query.parse(p.query);
 				console.log(q);
